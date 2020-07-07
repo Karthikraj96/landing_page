@@ -384,7 +384,7 @@ hr
 
 
 
-/*
+
 @media only screen and (max-width: 400px){
 #sec1
 {
@@ -424,7 +424,7 @@ h1{
 	width: 14px;
 	margin:15px auto;
 }
-.ab-lt-col.ab-rt-col
+.ab-lt-col,.ab-rt-col
 {
 	flex-basis: 100%;
 }
@@ -472,4 +472,4 @@ h1{
 	flex-basis: 50%;
 	margin-bottom: 30px;
 }
-}*/
+}
