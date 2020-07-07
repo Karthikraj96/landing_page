@@ -383,8 +383,8 @@ hr
 }
 
 
-/* make the page Resposive  for all the devices*/
 
+/*
 @media only screen and (max-width: 400px){
 #sec1
 {
@@ -472,4 +472,4 @@ h1{
 	flex-basis: 50%;
 	margin-bottom: 30px;
 }
-}
+}*/
